@@ -1,0 +1,39 @@
+{
+	"data": [
+  {
+    "id": 1,
+    "createdAt": "2021-04-11T22:05:09.456Z",
+    "name": "pan",
+    "available": true,
+    "isDeleted": false
+  },
+  {
+    "id": 2,
+    "createdAt": "2021-04-11T22:05:21.971Z",
+    "name": "tortilla",
+    "available": true,
+    "isDeleted": false
+  },
+  {
+    "id": 3,
+    "createdAt": "2021-04-11T22:05:27.863Z",
+    "name": "alpargatas",
+    "available": true,
+    "isDeleted": false
+  },
+  {
+    "id": 4,
+    "createdAt": "2021-04-11T22:46:08.683Z",
+    "name": "test 3",
+    "available": true,
+    "isDeleted": false
+  },
+  {
+    "id": 5,
+    "createdAt": "2021-04-14T03:35:57.106Z",
+    "name": "medias",
+    "available": true,
+    "isDeleted": false
+  }
+]
+}
